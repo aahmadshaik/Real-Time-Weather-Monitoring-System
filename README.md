@@ -23,14 +23,22 @@ This project is a Real-Time Data Processing System designed to monitor weather c
 
 src/
 ├── components/
-│   ├── Alerts.js           # Component for displaying weather alerts based on user-defined thresholds.
-│   ├── Config.js           # Component for user-configurable settings, including alert thresholds.
-│   ├── DailySummary.js      # Component for displaying daily weather summaries and aggregates.
-│   ├── Forecast.js          # Component for displaying weather forecasts for upcoming days.
-│   └── WeatherDisplay.js     # Component for displaying current weather conditions and updates.
-├── App.js                   # Main application component that ties everything together.
-├── index.js                 # Entry point of the application; renders the App component.
-└── App.css                  # Styles for the application, ensuring a cohesive design.
+│   ├── Alerts.js           
+                         # Component for displaying weather alerts based on user-defined thresholds.
+│   ├── Config.js           
+                         # Component for user-configurable settings, including alert thresholds.
+│   ├── DailySummary.js      
+                         # Component for displaying daily weather summaries and aggregates.
+│   ├── Forecast.js          
+                         # Component for displaying weather forecasts for upcoming days.
+│   └── WeatherDisplay.js    
+                         # Component for displaying current weather conditions and updates.
+├── App.js                   
+                         # Main application component that ties everything together.
+├── index.js                
+                         # Entry point of the application; renders the App component.
+└── App.css                  
+                         # Styles for the application, ensuring a cohesive design.
 
 
 
