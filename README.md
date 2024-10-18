@@ -50,19 +50,25 @@ src/
 - Node.js installed on your machine.
 - A valid API key from [OpenWeatherMap](https://openweathermap.org/).
 
-### Installation
+### How to Clone the Repository
 
-1. Clone the repository:
+1. Open a terminal and navigate to the directory where you want to store the project.
+2. Run the following command to clone the repository:
 
    ```bash
    git clone <YOUR_REPOSITORY_URL>
-   cd <YOUR_PROJECT_DIRECTORY>
+Navigate into the project folder:
+
+bash
+Copy code
+cd <YOUR_PROJECT_DIRECTORY>
+Installation
 Install the necessary dependencies:
 
 bash
 Copy code
 npm install
-Create a .env file in the root of your project:
+
 
 plaintext
 Copy code
